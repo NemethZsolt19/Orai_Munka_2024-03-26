@@ -1,4 +1,12 @@
-//Németh Zsolt, I-2-N, 2024-03-26
+/*
+* File: app.js
+* Author: Németh Zsolt
+* Copyright: 2024, NÉmeth Zsolt
+* Group: Szoft I-2-N
+* Date: 2024-03-26
+* Github: https://github.com/NemethZsolt19/
+* Licenc: GNU GPL
+*/
 
 const radiusInput = document.querySelector('#radius')
 const heightInput = document.querySelector('#height')
